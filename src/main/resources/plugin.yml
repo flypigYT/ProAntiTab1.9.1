@@ -1,0 +1,20 @@
+name: ProAntiTab
+description: Hide more than just your plugins. Hide almost everything!
+
+author: Rayzs_YT
+version: 1.9.1
+api-version: 1.13
+folia-supported: true
+main: de.rayzs.pat.plugin.BukkitLoader
+
+softdepend:
+  - PlaceholderAPI
+  - LuckPerms
+  - ViaVersion
+  - ViaBackwards
+  - ViaRewind
+  - Skript
+
+commands:
+  proantitab:
+    aliases: [pat]
